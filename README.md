@@ -3,7 +3,7 @@
 
 Example of application in an APIView.post:
 
-```
+```python
 
 
 class ApplicantPersonalDataAPIView(APIView):
